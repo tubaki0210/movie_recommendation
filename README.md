@@ -7,7 +7,6 @@ https://github.com/user-attachments/assets/3e81f4d3-918d-4e96-924b-f8adc1f770fc
 
 ## 使用技術
 ### フロントエンド
-* React
 * Next.js
 * HTML
 * CSS
