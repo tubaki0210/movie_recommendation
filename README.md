@@ -1,10 +1,9 @@
 # ユーザの嗜好に適応した説明文を生成する対話型英推薦システム
 これは私が作成した**対話型映画推薦システム**のデモ動画です．  
-ファイルサイズの都合上，非常に短く見にくい動画になっていますがご了承ください．
 
-https://github.com/user-attachments/assets/07e2d42c-3773-4417-b564-978e114b0ab9
 
-https://github.com/user-attachments/assets/ea76f82e-0011-43ea-9ce5-4ebe641bc045
+https://github.com/user-attachments/assets/3e81f4d3-918d-4e96-924b-f8adc1f770fc
+
 
 ## 使用技術
 ### フロントエンド
